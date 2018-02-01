@@ -1,7 +1,12 @@
 # Clipboard-Translator
-MacOS app to translate from menu bar. Automatically translate clipboard items. Automatically detects langauage.
+Unofficial google translate app for MacOS.
 
-![example](https://media.giphy.com/media/l4pTj8jMCP4gKTaxO/giphy.gif)
+- Translate from menu bar. 
+- Automatically translate copied text. 
+- Automatically detects langauage.
+- All languages supported (as provided by google API)
+
+![example](https://media.giphy.com/media/xThtavRiGSW4tZLPPy/giphy.gif)
 
 ### Supported Languages
 - Afrikaans
@@ -113,5 +118,3 @@ MacOS app to translate from menu bar. Automatically translate clipboard items. A
 - replace `#{Your-google-translate-api-key}` in `Translater/Translate/TranslateViewController.swift` Line 127 with your google translate api key
 - Build the project in xcode
 - Launch app
-
-### Contributions to add more languages are welcome
