@@ -1,10 +1,113 @@
 # Clipboard-Translator
-MacOS app to translate japanese to english from menu bar. Automatically translate clipboard items.
+MacOS app to translate from menu bar. Automatically translate clipboard items. Automatically detects langauage.
 
 ![example](https://media.giphy.com/media/l4pTj8jMCP4gKTaxO/giphy.gif)
 
-### Supported translations
-- Japanese -> English
+### Supported Languages
+- Afrikaans
+- Albanian
+- Amharic
+- Arabic
+- Armenian
+- Azeerbaijani
+- Basque
+- Belarusian
+- Bengali
+- Bosnian
+- Bulgarian
+- Catalan
+- Cebuano
+- Chinese
+- Chinese
+- Corsican
+- Croatian
+- Czech
+- Danish
+- Dutch
+- English
+- Esperanto
+- Estonian
+- Finnish
+- French
+- Frisian
+- Galician
+- Georgian
+- German
+- Greek
+- Gujarati
+- Haitian
+- Hausa
+- Hawaiian
+- Hebrew
+- Hindi
+- Hmong
+- Hungarian
+- Icelandic
+- Igbo
+- Indonesian
+- Irish
+- Italian
+- Japanese
+- Javanese
+- Kannada
+- Kazakh
+- Khmer
+- Korean
+- Kurdish
+- Kyrgyz
+- Lao
+- Latin
+- Latvian
+- Lithuanian
+- Luxembourgish
+- Macedonian
+- Malagasy
+- Malay
+- Malayalam
+- Maltese
+- Maori
+- Marathi
+- Mongolian
+- Myanmar
+- Nepali
+- Norwegian
+- Nyanja
+- Pashto
+- Persian
+- Polish
+- Portuguese
+- Punjabi
+- Romanian
+- Russian
+- Samoan
+- Scots
+- Serbian
+- Sesotho
+- Shona
+- Sindhi
+- Sinhala
+- Slovak
+- Slovenian
+- Somali
+- Spanish
+- Sundanese
+- Swahili
+- Swedish
+- Tagalog
+- Tajik
+- Tamil
+- Telugu
+- Thai
+- Turkish
+- Ukrainian
+- Urdu
+- Uzbek
+- Vietnamese
+- Welsh
+- Xhosa
+- Yiddish
+- Yoruba
+- Zulu
 
 ### How to use
 - replace `#{Your-google-translate-api-key}` in `Translater/Translate/TranslateViewController.swift` Line 84 with your google translate api key
