@@ -110,7 +110,7 @@ MacOS app to translate from menu bar. Automatically translate clipboard items. A
 - Zulu
 
 ### How to use
-- replace `#{Your-google-translate-api-key}` in `Translater/Translate/TranslateViewController.swift` Line 84 with your google translate api key
+- replace `#{Your-google-translate-api-key}` in `Translater/Translate/TranslateViewController.swift` Line 127 with your google translate api key
 - Build the project in xcode
 - Launch app
 

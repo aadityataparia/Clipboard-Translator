@@ -124,7 +124,7 @@ class TranslateViewController: NSViewController, NSTextFieldDelegate {
                      "Yoruba": "yo",
                      "Zulu": "zu"]
 
-    var google_api_key = "#{your_google_api_key}"
+    var google_api_key = "#{Your-google-translate-api-key}"
 
     override func viewDidLoad() {
         super.viewDidLoad()
