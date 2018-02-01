@@ -3,4 +3,4 @@ MacOS app to translate japanese to english from menu bar. Automatically translat
 
 ![example](https://media.giphy.com/media/l4pTj8jMCP4gKTaxO/giphy.gif)
 
-### Contribution to add more languages is welcome
+### Contributions to add more languages are welcome
