@@ -81,7 +81,7 @@ extension TranslateViewController {
         let jsonData = try? JSONSerialization.data(withJSONObject: json)
 
         // create post request
-        let url = URL(string: "https://translation.googleapis.com/language/translate/v2?key=#{You-google-translate-api-key}")!
+        let url = URL(string: "https://translation.googleapis.com/language/translate/v2?key=#{Your-google-translate-api-key}")!
         var request = URLRequest(url: url)
         request.httpMethod = "POST"
         request.addValue("application/json", forHTTPHeaderField: "Content-Type")
